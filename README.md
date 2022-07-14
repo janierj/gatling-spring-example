@@ -1,4 +1,4 @@
-# gatling-java-example
+# gatling-spring-example
 
 This is an example about Performance tests using [Gatling](https://gatling.io/) with java and Sping Boot
 
